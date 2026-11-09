@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "yahoo",
+  "repo": "serialize-javascript",
+  "versions": [
+    {
+      "commit": "4d0d8a686a2a6121f78f2f0ef7bb14dc1f92371a",
+      "parsed_at": "2026-11-09T15:30:58.299847+00:00",
+      "filetree": "filetree/4d0d8a686a2a6121f78f2f0ef7bb14dc1f92371a.nq.gz",
+      "blobs": [
+        "blob/60186e3ffd82653a977cdfe869d7361dcb83cb0a.nq.gz",
+        "blob/d38e0bb3286e186f348bb6704075f042ce04bad9.nq.gz",
+        "blob/42aa4b282c864b25c60817f5e931a24614e92005.nq.gz",
+        "blob/ed937621e80875c7cb1f612a8719ba5f8f3283c2.nq.gz",
+        "blob/574da77531bfdcea79acdcf29deb8e00051e3b64.nq.gz",
+        "blob/1b1070066675576ea6d0508a5491c8d38b04aa6c.nq.gz",
+        "blob/3c3629e647f5ddf82548912e337bea9826b434af.nq.gz",
+        "blob/4a257c0b52b6e08cdc8728296bf2da25f10415a3.nq.gz",
+        "blob/6f6b73825a2f13ef5bda084a8ff1c069dae50809.nq.gz",
+        "blob/263382ae7a94fd05da38f8c2ef83d989d857d4ed.nq.gz",
+        "blob/6a2ae3d3920eb60e822c1a89493fa55521846085.nq.gz",
+        "blob/90e3b30a4f3b9c25bc57bb1a5e33c45a4651cc15.nq.gz",
+        "blob/b2a86efeeef7d7782bdb935cab5825388e78543f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
