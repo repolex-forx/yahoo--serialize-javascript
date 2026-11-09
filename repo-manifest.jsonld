@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/yahoo/serialize-javascript/commit/4d0d8a686a2a6121f78f2f0ef7bb14dc1f92371a",
       "git:hexsha": "4d0d8a686a2a6121f78f2f0ef7bb14dc1f92371a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/yahoo/serialize-javascript/commit/bc8e8115e840c2c67c406eceb3499d537103ead6",
