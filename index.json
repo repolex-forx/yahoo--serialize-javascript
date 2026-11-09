@@ -1,0 +1,11 @@
+{
+  "org": "yahoo",
+  "repo": "serialize-javascript",
+  "versions": [
+    {
+      "commit": "4d0d8a686a2a6121f78f2f0ef7bb14dc1f92371a",
+      "tag": "",
+      "parsed_at": "2026-11-09T15:33:03.577727+00:00"
+    }
+  ]
+}
